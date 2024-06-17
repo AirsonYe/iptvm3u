@@ -51,7 +51,7 @@ http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/322
 #EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png" group-title="卫视高清",浙江卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 #EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png" group-title="卫视高清",东方卫视
-https://stream.freetv.fun/e3d4f185eb27d026fd51e6f45e4151ef3a2b76e097db4754a485865d9467aebc.m3u8
+http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010054/1.m3u8
 #EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png" group-title="卫视高清",北京卫视
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226450/index.m3u8
 #EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png" group-title="卫视高清",江苏卫视
@@ -518,44 +518,6 @@ http://121.24.98.186:8090/hls/30/index.m3u8
 http://121.24.98.186:8090/hls/31/index.m3u8
 #EXTINF:-1,tvg-id="河北影视" tvg-name="河北影视" tvg-logo="https://epg.112114.xyz/logo/河北影视.png" group-title="河北",河北影视
 http://121.24.98.186:8090/hls/29/index.m3u8
-
-#ihot
-#EXTINF:-1,tvg-id="爱电竞" tvg-name="爱电竞" tvg-logo="https://epg.112114.xyz/logo/爱电竞.png" group-title="IHOT",iHot-爱电竞
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000230630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000230630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱谍战" tvg-name="爱谍战" tvg-logo="https://epg.112114.xyz/logo/爱谍战.png" group-title="IHOT",iHot-爱谍战
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000070630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000070630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱动漫" tvg-name="爱动漫" tvg-logo="https://epg.112114.xyz/logo/爱动漫.png" group-title="IHOT",iHot-爱动漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000280630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000280630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱都市" tvg-name="爱都市" tvg-logo="https://epg.112114.xyz/logo/爱都市.png" group-title="IHOT",iHot-爱都市
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000080630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000080630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱怀旧" tvg-name="爱怀旧" tvg-logo="https://epg.112114.xyz/logo/爱怀旧.png" group-title="IHOT",iHot-爱怀旧
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000260630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000260630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱经典" tvg-name="爱经典" tvg-logo="https://epg.112114.xyz/logo/爱经典.png" group-title="IHOT",iHot-爱经典
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000060630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱科幻" tvg-name="爱科幻" tvg-logo="https://epg.112114.xyz/logo/爱科幻.png" group-title="IHOT",iHot-爱科幻
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000020630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000020630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱科学" tvg-name="爱科学" tvg-logo="https://epg.112114.xyz/logo/爱科学.png" group-title="IHOT",iHot-爱科学
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000160630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000160630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱浪漫" tvg-name="爱浪漫" tvg-logo="https://epg.112114.xyz/logo/爱浪漫.png" group-title="IHOT",iHot-爱浪漫
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000040630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000040630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱历史" tvg-name="爱历史" tvg-logo="https://epg.112114.xyz/logo/爱历史.png" group-title="IHOT",iHot-爱历史
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000150630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000150630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱旅行" tvg-name="爱旅行" tvg-logo="https://epg.112114.xyz/logo/爱旅行.png" group-title="IHOT",iHot-爱旅行
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000250630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000250630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱青春" tvg-name="爱青春" tvg-logo="https://epg.112114.xyz/logo/爱青春.png" group-title="IHOT",iHot-爱青春
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000100630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000100630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱赛车" tvg-name="爱赛车" tvg-logo="https://epg.112114.xyz/logo/爱赛车.png" group-title="IHOT",iHot-爱赛车
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000240630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000240630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱体育" tvg-name="爱体育" tvg-logo="https://epg.112114.xyz/logo/爱体育.png" group-title="IHOT",iHot-爱体育
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000290630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000290630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱玩具" tvg-name="爱玩具" tvg-logo="https://epg.112114.xyz/logo/爱玩具.png" group-title="IHOT",iHot-爱玩具
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000220630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000220630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱悬疑" tvg-name="爱悬疑" tvg-logo="https://epg.112114.xyz/logo/爱悬疑.png" group-title="IHOT",iHot-爱悬疑
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000050630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000050630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱幼教" tvg-name="爱幼教" tvg-logo="https://epg.112114.xyz/logo/爱幼教.png" group-title="IHOT",iHot-爱幼教
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000180630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000180630&amp;livemode=1&amp;stbId=3
-#EXTINF:-1,tvg-id="爱院线" tvg-name="爱院线" tvg-logo="https://epg.112114.xyz/logo/爱院线.png" group-title="IHOT",iHot-爱院线
-http://zteres.sn.chinamobile.com:6060/000000001000/6000000006000030630/index.m3u8?channel-id=wasusyt&amp;Contentid=6000000006000030630&amp;livemode=1&amp;stbId=3
 
 #四川
 #EXTINF:-1,tvg-id="四川经济" tvg-name="四川经济" tvg-logo="https://epg.112114.xyz/logo/四川经济.png" group-title="四川",四川经济
