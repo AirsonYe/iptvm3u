@@ -254,10 +254,8 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m
 http://222.218.159.162:8181/tsfile/live/1000_1.m3u8
 #EXTINF:-1,tvg-id="广东新闻" tvg-name="广东新闻" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png" group-title="广东",广东新闻
 http://183.54.208.197:9999/udp/239.77.0.173:5146
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生1" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生1
-https://stream.freetv.fun/c5b7c23666bc2e56fe300476bcf397ce81c3ee3dce18128e109cac0de5c301f4.ctv
-#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生2" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生2
-https://stream.freetv.fun/c5b7c23666bc2e56fe300476bcf397ce81c3ee3dce18128e109cac0de5c301f4.ctv
+#EXTINF:-1,tvg-id="广东民生" tvg-name="广东民生" tvg-logo="https://epg.112114.xyz/logo/广东民生.png" group-title="广东",广东民生1
+https://stream.freetv.fun/e58f3e7d70b1d3a405b20da99fb30ee4f4750c0b62da5ee416b8a584c90568d1.ctv
 #EXTINF:-1,tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.112114.xyz/logo/广东体育.png" group-title="广东",广东体育
 http://183.54.208.197:9999/udp/239.77.0.112:5146
 #EXTINF:-1,tvg-id="广东经济科教" tvg-name="广东经济科教" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png" group-title="广东",广东经济科教
