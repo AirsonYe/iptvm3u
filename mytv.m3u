@@ -135,13 +135,15 @@ https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
 
 #国际频道
 #EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png" group-title="国际频道",凤凰中文
-https://stream.freetv.fun/a69efa1a0897a5f69ceed5b9cb6ee600febec9eb51447544a2d74a43cd89059e.ctv
+mitv://generationnexxxt.com:19806/64e1ab2a000417167359b3ca0417008f
 #EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png" group-title="国际频道",凤凰资讯
-https://stream.freetv.fun/6a18a5b48dd18355b53011a2ed5b8d9a3c044e189435f374f1fbe8d30dca0bf9.ctv
+mitv://generationnexxxt.com:19806/6684e9f6606f49fba9b6de846dbdcb64
 #EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.112114.xyz/logo/凤凰香港.png" group-title="国际频道",凤凰香港
-https://stream.freetv.fun/5f16dc7fc8aaaed3205516c63e4a8c24bca9dbba1181684244729cf574505b0e.m3u8
+mitv://generationnexxxt.com:19806/8e396c3ec52f4eee9e5b7868042b1bf2
+东森综合台
+mitv://generationnexxxt.com:19806/106c81959d3c4466be186b19f43484f0,http://histar-proxy.isus.cc/ebc-ettv
 #EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="国际频道",TVB翡翠台
-https://stream.freetv.fun/fei-cui-6.ctv
+http://110.185.171.226:96/yximgs.php?id=48
 #EXTINF:-1,tvg-id="翡翠台4K" tvg-name="翡翠台4K" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png" group-title="国际频道",TVB翡翠台4K
 https://stream.freetv.fun/tvbfei-cui-tai-1.m3u8
 #EXTINF:-1,tvg-id="TVB娱乐台" tvg-name="TVB娱乐台" tvg-logo="https://epg.pw/media/images/epg/2024/06/09/20240609103748539019_25.png" group-title="国际频道",TVB娱乐台
